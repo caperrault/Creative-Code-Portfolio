@@ -4147,6 +4147,7 @@ textarea.input-group-sm > .input-group-btn > .btn {
 
 .navbar-static-top {
   border-width: 0 0 1px;
+  color: #1A1A1A;
 }
 
 @media (min-width: 768px) {
